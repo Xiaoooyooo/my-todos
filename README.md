@@ -1,29 +1,15 @@
-# todos
+# 一个简单待办事项清单应用
+Vue + Vuex + sass
 
-## Project setup
-```
+## 使用
+```bash
+cd todos
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 功能
++ 剩余待办事项总数
++ 新增待办事项
++ 点击即可完成
++ 删除已完成事项
